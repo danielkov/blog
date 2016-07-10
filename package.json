@@ -1,0 +1,23 @@
+{
+  "name": "kde-blog",
+  "version": "0.1.0",
+  "description": "KDE Design personal blog.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielkov/blog.git"
+  },
+  "keywords": [
+    "personal",
+    "blog"
+  ],
+  "author": "Daniel Kovacs <kovacsemod@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielkov/blog/issues"
+  },
+  "homepage": "https://github.com/danielkov/blog#readme"
+}
