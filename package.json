@@ -19,5 +19,25 @@
   "bugs": {
     "url": "https://github.com/danielkov/blog/issues"
   },
-  "homepage": "https://github.com/danielkov/blog#readme"
+  "homepage": "https://github.com/danielkov/blog#readme",
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "html-loader": "^0.4.3",
+    "html-webpack-plugin": "^2.22.0",
+    "node-sass": "^3.8.0",
+    "postcss-loader": "^0.9.1",
+    "sass-loader": "^4.0.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1"
+  },
+  "dependencies": {
+    "ampersand-app": "^2.0.0",
+    "ampersand-model": "^8.0.0",
+    "ampersand-router": "^4.0.0",
+    "ampersand-state": "^5.0.2",
+    "ampersand-view": "^10.0.1",
+    "jquery": "^3.1.0",
+    "lodash": "^4.13.1"
+  }
 }
